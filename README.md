@@ -1,1 +1,1 @@
-Repositório para guardar codigos do curso Curso de JavaScript e TypeScript do básico ao avançado 2022
+Repositório para guardar codigos do Curso de JavaScript e TypeScript do básico ao avançado 2022
